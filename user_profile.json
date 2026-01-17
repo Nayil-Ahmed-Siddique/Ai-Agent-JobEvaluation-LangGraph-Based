@@ -1,0 +1,16 @@
+{
+  "name": "Nayil Ahmed Siddique",
+  "email": "nayilahmedsiddiquegmail.com",
+  "phone": "+971 568737626",
+  "location": "Dubai",
+  "visa_status": "valid",
+  "experience_years": 3,
+  "max_experience_allowed": 5,
+  "roles_targeted": [
+    "Machine Learning Engineer",
+    "AI Engineer",
+    "Data Scientist",
+    "LLM Engineer",
+    "AI Agent Engineer"
+  ]
+}

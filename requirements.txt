@@ -1,0 +1,21 @@
+langgraph
+playwright
+python-dotenv
+openai
+
+
+ProjectLG/
+│
+├── agent_graph.py        # ⭐ LangGraph agent entry point
+├── job_discovery.py
+├── batch_reasoning.py
+├── llm_reasoner.py
+├── email_report.py
+├── email_sender.py
+│
+├── user_profile.json     # sanitized
+├── requirements.txt
+├── .env.example
+├── README.md
+│
+└── .gitignore            # includes .env, __pycache__/
