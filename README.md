@@ -2,6 +2,8 @@
 
 An AI-powered job intelligence agent built using LangGraph, LLMs, and Playwright.
 
+![Workflow Diagram](./CoverImage.jpg)
+
 This project automatically:
 - discovers relevant job listings,
 - filters them using rules,
@@ -142,6 +144,8 @@ What happens:
 If no suitable jobs are found, you still receive a confirmation email.
 
 ---
+
+![Workflow Diagram](./Connecting-dots.jpg)
 
 ## 🧠 Why LangGraph is used
 
