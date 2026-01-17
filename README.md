@@ -64,6 +64,8 @@ ProjectLG/
 
 ---
 
+![Workflow Diagram](./Connecting-dots.jpg)
+
 ## 🚀 Step 1 — Create Virtual Environment
 
 python -m venv venv
@@ -145,7 +147,7 @@ If no suitable jobs are found, you still receive a confirmation email.
 
 ---
 
-![Workflow Diagram](./Connecting-dots.jpg)
+![Workflow Diagram](./connecting-steps.jpg)
 
 ## 🧠 Why LangGraph is used
 
