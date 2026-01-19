@@ -113,8 +113,6 @@ OPENROUTER_API_KEY=your_openrouter_api_key
 SENDER_EMAIL=your_email@gmail.com  
 SENDER_PASSWORD=your_gmail_app_password  
 
-⚠️ Never commit .env to GitHub.
-
 ---
 
 ## 👤 Step 5 — Configure User Profile
